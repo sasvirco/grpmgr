@@ -23,7 +23,7 @@ sub main {
 
     # Destination HPNA connection credentials
     my $duser = 'hpna';
-    my $dpass = 'password;
+    my $dpass = 'password';
     my $dhost = '10.10.2.54';
 
     my $help = 0;
