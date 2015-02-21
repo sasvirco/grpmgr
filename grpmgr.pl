@@ -18,12 +18,12 @@ sub main {
 
     # Source HPNA connection credentials
     my $suser = 'hpna';
-    my $spass = 's3alk8a';
+    my $spass = 'password';
     my $shost = 'localhost';
 
     # Destination HPNA connection credentials
     my $duser = 'hpna';
-    my $dpass = 's3alk8a';
+    my $dpass = 'password;
     my $dhost = '10.10.2.54';
 
     my $help = 0;
